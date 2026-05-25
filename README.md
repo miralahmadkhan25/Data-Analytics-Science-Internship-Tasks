@@ -60,3 +60,35 @@ Smoking, age, and BMI were found to significantly impact insurance costs.
 ## Conclusion
 
 These tasks demonstrate the application of data analysis and machine learning techniques to extract meaningful insights and build predictive models.
+
+
+
+
+Assignment NO 2 
+## Task 1: Term Deposit Subscription Prediction
+
+**Objective:** To predict whether a bank customer will subscribe to a term deposit campaign.
+
+**Approach:** Cleaned and preprocessed the dataset, encoded categorical variables, and trained classification models including Logistic Regression and Random Forest.
+
+**Results and Insights:** Random Forest achieved better performance and identified campaign duration, customer balance, and previous outcomes as important factors influencing subscription decisions.
+
+---
+
+## Task 2: Customer Segmentation Using K-Means Clustering
+
+**Objective:** To segment customers into groups based on income and spending behavior for targeted marketing strategies.
+
+**Approach:** Performed Exploratory Data Analysis (EDA), applied K-Means Clustering, and used PCA for dimensionality reduction and cluster visualization.
+
+**Results and Insights:** Successfully identified multiple customer segments including high-spending and low-spending groups, enabling personalized marketing recommendations.
+
+---
+
+## Task 5: Interactive Business Dashboard in Streamlit
+
+**Objective:** To develop an interactive business dashboard for analyzing sales, profit, and customer performance.
+
+**Approach:** Cleaned and prepared the Global Superstore dataset, developed an interactive Streamlit dashboard with filters and KPI visualizations.
+
+**Results and Insights:** The dashboard provided clear business insights regarding regional sales performance, profitable categories, and top-performing customers through interactive visualizations.
